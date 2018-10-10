@@ -1,0 +1,29 @@
+/* CSS for MenuXBlock */
+.titulo {
+        color:#ffffff;
+        background-color: #5f2d84;
+        border-radius:20px;
+        overflow:auto;        
+        font-size:30px;
+        vertical-align:middle;
+        padding: 10px 10px 10px 10px;
+       }
+
+.subtitulos {
+        color: #5f2d84;
+        font-weight: bold;
+      }
+.text {
+       width:100%;
+       box-sizing:border-box;
+       float:left;
+       padding:2% 2% 0 0;
+     }
+    
+@media screen and (max-width: 768px) {
+      .text {
+            float:none;
+            width:100%;
+            padding: 2% 2% 0 0;
+       }
+}

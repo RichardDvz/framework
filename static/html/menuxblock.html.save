@@ -1,0 +1,8 @@
+<div class="titulo">
+     <h1>{self.display_name}</h1>
+</div>
+
+<h4 class="subtitulos">Objetivo</h4>
+<div class="text">{self.objetivo}</div><h4 class="subtitulos">Objetivo</h4>
+<div class="text">{self.objetivo}</div>
+
